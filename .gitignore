@@ -1,0 +1,9 @@
+# Archive files
+*.zip
+group B.zip
+
+# OS & Editor generated files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
